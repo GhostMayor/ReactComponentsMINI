@@ -1,4 +1,4 @@
-import Proto from 'ComponenPrototype';
+import Proto from './ComponentPrototype';
 
 class Number extends Proto{
     constructor(props){

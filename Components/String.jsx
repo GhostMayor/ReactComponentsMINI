@@ -1,4 +1,4 @@
-import Proto from 'ComponentPrototype';
+import Proto from './ComponentPrototype';
 
 class _String extends Proto {
     constructor(props){

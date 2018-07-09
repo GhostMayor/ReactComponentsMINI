@@ -1,4 +1,4 @@
-import Proto from 'ComponentPrototype';
+import Proto from './ComponentPrototype';
 
 class Search extends Proto {
     constructor(props) {
