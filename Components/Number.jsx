@@ -14,4 +14,4 @@ class Number extends Proto{
   }
 
 
-export default NUmber
+export default Number
